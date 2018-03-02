@@ -1,0 +1,10 @@
+1, 清除db文件夹
+
+2, 将数据库文件拖入db文件夹下, 总共三个文件
+	I: 	xxx.realm 
+	II: 	xxx.realm.management
+	III: 	xxx.realm.lock
+
+3, 根目录下执行命令行$: make
+
+4, 在result问价下找出对应的文件即可

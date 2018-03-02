@@ -1,0 +1,2 @@
+duration		distance
+307		808.0622863318106
